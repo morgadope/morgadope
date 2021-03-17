@@ -7,10 +7,7 @@
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/pedro-morgado-36811a149/)
 
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@cabreirajm)
-
 [<img align="left" alt="morgadope | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/morgadope/)
-
 
 
 <br />
@@ -29,16 +26,12 @@
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-
 <br />
 <br />
 
 ---
 
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=morgadope&show_icons=true&hide_border=true" />
+<img align="left" alt="Morgadope Github Stats" src="https://github-readme-stats.vercel.app/api?username=morgadope&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/pedro-morgado-36811a149/
 [instagram]: https://instagram.com/morgadope
