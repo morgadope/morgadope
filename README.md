@@ -1,6 +1,6 @@
 ### Pedro Morgado- [Software Engineering | Python Developer | Data Sciense Student] 👋
 
-## 📢 Olá, me chamo Pedro Morgado. Atualmente cursando Engenharia de Software 3° período estudante de Data Science🧪 e desenvolvimento Python 🐍.
+## 📢 Olá, me chamo Pedro Morgado. Atualmente cursando Engenharia de Software 4° período estudante de Data Science🧪 e desenvolvimento Python 🐍.
 
 
 ###  Vamos nos conectar? 👋🚀
