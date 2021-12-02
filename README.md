@@ -1,4 +1,4 @@
-## Olá, me chamo Pedro Morgado. Atualmente cursando Engenharia de Software 4° período, estudante de Python 🐍.
+## Olá, me chamo Pedro Morgado. Atualmente cursando Engenharia de Software 4° período, estudante de Python 🐍 e java ☕.
 
  <div>
   <a href="https://github.com/morgadope">
