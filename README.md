@@ -1,4 +1,4 @@
-## Olá, me chamo Pedro Morgado. Atualmente cursando Engenharia de Software 4° período, estudante de Python 🐍 e java ☕.
+## Olá, me chamo Pedro Morgado. Atualmente cursando Engenharia de Software 5° período, estudante de Python 🐍 e java ☕.
 
  <div>
   <a href="https://github.com/morgadope">
@@ -6,9 +6,11 @@
   <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgadope&layout=compact&langs_count=7&theme=tokyonight "/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JAVA" height="30" width="40" src="<<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-   <img align="center" alt="Thiago-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ <img align="center" alt="PYTHON " height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="JAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"">
+ <img align="center" alt="SPRING" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg""">                                      <img align="center" alt="MYSQL" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"""">                                                                                                            
+                                                                                                                                                  
+                                                                                                                                                  
 </div>
   
   ##
