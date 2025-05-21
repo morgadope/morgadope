@@ -1,8 +1,7 @@
 # Hi There! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](#) 
-[![Website](https://img.shields.io/badge/Website-Portfólio-lightgrey)](#)
-[![Email](https://img.shields.io/badge/Email-contato@seuemail.com-purple)](mailto:contato@seuemail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@morgadope-blue)](https://www.linkedin.com/in/morgadope)
+[![Email](https://img.shields.io/badge/Email-contato@seuemail.com-purple)](mailto:pedron.morgado@gmail.com)
 
 ---
 
