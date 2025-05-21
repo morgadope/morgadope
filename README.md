@@ -1,7 +1,7 @@
 # Hi There! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@morgadope-blue)](https://www.linkedin.com/in/morgadope)
-[![Email](https://img.shields.io/badge/Email-contato@seuemail.com-purple)](mailto:pedron.morgado@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pedron.morgado@gmail.com-purple)](mailto:pedron.morgado@gmail.com)
 
 ---
 
