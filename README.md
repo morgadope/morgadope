@@ -9,6 +9,19 @@
 
 `(Java | Spring Boot | AWS | Python ) 🚀`
 
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+</p>
+
 - 👨‍💻 Software Engineer at [Itaú](https://www.itau.com.br/)
 - 🏆 AWS Certified  
 - 🎓 Bachelor's degree in Software Engineering  
@@ -17,5 +30,3 @@
 - 💡 Love a good challenge  
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morgadope&hide_progress=true)
