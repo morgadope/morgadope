@@ -7,8 +7,6 @@
 
 ## My name is Pedro Morgado
 
-`(Java | Spring Boot | AWS | Python ) 🚀`
-
 ## 🧰 Tech Stack
 
 <p align="left">
